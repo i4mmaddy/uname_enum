@@ -21,8 +21,17 @@ else(type == 2)
   
   // needs to be reterive from file
   
-  
-  
+  def unamechecker(name,type)
+    
+    // needs to check the uname is present there or not
+    
+    // and return thr result
+
+//execption handlindg required  
+ //end of programs
+
+ 
+
   
 
 
